@@ -2,5 +2,5 @@
 
 int main()
 {
-	printf("Hello VisualStudio Git");
+	printf("リモートリポジトリで変更した場所");
 }
